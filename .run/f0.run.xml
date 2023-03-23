@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="f0" type="CLion_Remote" version="1" remoteCommand="/dev/ttyACM0" symbolFile="$PROJECT_DIR$/build/latest/firmware.elf" sysroot="">
+    <debugger toolchainName="f0" />
+    <method v="2">
+      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_prepair" />
+    </method>
+  </configuration>
+</component>
